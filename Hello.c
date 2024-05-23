@@ -17,7 +17,7 @@ int main(){
     printf("Hello my name is %s\n", name);
     printf("My age is : %d\n", age);
     printf("My grade is : %f\n", gpa);
-    printf("Hello Git");
+    printf("Hello Git and test\n");
 
     return 0;
 }
